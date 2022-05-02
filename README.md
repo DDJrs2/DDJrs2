@@ -1,4 +1,4 @@
-As you see, I'm not usually active on Github, as I also have interest in other things other than studying programming languages, such as drawings, music prodution and video editing ー this sometimes integrates with my interest in OpenGl with demoscene creation.
+As you see, I'm not usually active on Github, as I also have interest in other things other than studying programming languages, such as paitings, OpenGl demoscenes and video editing.
 
 This profile is mostly used for things that I do on my free time, like personal projects.
 
